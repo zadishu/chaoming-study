@@ -1,5 +1,5 @@
-# 朝明在线一条龙刷课
-朝明在线 刷课+答题
+# 朝明在线  一条龙刷作业
+朝明在线 刷课+作业
 
 <img src="https://github.com/user-attachments/assets/ea232e17-5f43-4562-a6ab-b8d7b0d3af8d" alt="微信图片_20240903115551" width="300"/>
 
